@@ -1046,7 +1046,7 @@ Skills for marketing professionals, content creators, and growth teams.
   - Install: `npx skills add CosmoBlk/email-marketing-bible`
 
 - [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) ![Stars](https://img.shields.io/github/stars/milad-ahmd/agent-skills?style=flat-square)
-  - 14 marketing & social media skills: Instagram growth, TikTok scripts, YouTube SEO and scripts, content repurposing, hooks, ad copy, email, competitor research, analytics reports
+  - 24 marketing & social media skills: an agent per platform (Instagram, TikTok, YouTube, LinkedIn, X, Facebook, Pinterest, Threads, Reddit, Telegram, WhatsApp, Google Business Profile) plus content repurposing, hooks, ad copy, email, analytics
   - Plus 17 developer skills (PR review, secret scanning, migrations, Docker, SQL); MIT, instructions-first, no paid API required
   - Install: `curl -fsSL https://raw.githubusercontent.com/milad-ahmd/agent-skills/main/install.sh | bash`
 
