@@ -1045,6 +1045,11 @@ Skills for marketing professionals, content creators, and growth teams.
   - Reference layer covers benchmarks, GDPR/CAN-SPAM/CASL compliance, cold email, SMS and WhatsApp, and 19 industry playbooks
   - Install: `npx skills add CosmoBlk/email-marketing-bible`
 
+- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) ![Stars](https://img.shields.io/github/stars/milad-ahmd/agent-skills?style=flat-square)
+  - 14 marketing & social media skills: Instagram growth, TikTok scripts, YouTube SEO and scripts, content repurposing, hooks, ad copy, email, competitor research, analytics reports
+  - Plus 17 developer skills (PR review, secret scanning, migrations, Docker, SQL); MIT, instructions-first, no paid API required
+  - Install: `curl -fsSL https://raw.githubusercontent.com/milad-ahmd/agent-skills/main/install.sh | bash`
+
 ---
 
 ## Domain-Specific Skills
